@@ -1,2 +1,2 @@
 # shopping_assisstant
-Identify the grocery products in videos to help visually impaired people while shopping.
+Develop deep learning models to identify the grocery products in videos to help visually impaired people while shopping.
